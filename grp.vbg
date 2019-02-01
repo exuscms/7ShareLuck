@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=prjserver.vbp
+Project=prjclient.vbp
